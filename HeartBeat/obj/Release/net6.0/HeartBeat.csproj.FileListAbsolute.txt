@@ -1,0 +1,13 @@
+C:\Work\Hearbeat Demo\HeartBeat\bin\Release\net6.0\HeartBeat.deps.json
+C:\Work\Hearbeat Demo\HeartBeat\bin\Release\net6.0\HeartBeat.dll
+C:\Work\Hearbeat Demo\HeartBeat\bin\Release\net6.0\HeartBeat.pdb
+C:\Work\Hearbeat Demo\HeartBeat\obj\Release\net6.0\HeartBeat.csproj.AssemblyReference.cache
+C:\Work\Hearbeat Demo\HeartBeat\obj\Release\net6.0\HeartBeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Hearbeat Demo\HeartBeat\obj\Release\net6.0\HeartBeat.AssemblyInfoInputs.cache
+C:\Work\Hearbeat Demo\HeartBeat\obj\Release\net6.0\HeartBeat.AssemblyInfo.cs
+C:\Work\Hearbeat Demo\HeartBeat\obj\Release\net6.0\HeartBeat.csproj.CoreCompileInputs.cache
+C:\Work\Hearbeat Demo\HeartBeat\obj\Release\net6.0\HeartBeat.dll
+C:\Work\Hearbeat Demo\HeartBeat\obj\Release\net6.0\refint\HeartBeat.dll
+C:\Work\Hearbeat Demo\HeartBeat\obj\Release\net6.0\HeartBeat.pdb
+C:\Work\Hearbeat Demo\HeartBeat\obj\Release\net6.0\ref\HeartBeat.dll
+C:\Work\Hearbeat Demo\HeartBeat\bin\Release\net6.0\App.cs

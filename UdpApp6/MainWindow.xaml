@@ -1,0 +1,14 @@
+﻿<Window x:Class="UdpApp6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UdpApp6"
+        mc:Ignorable="d"
+           Title="UdpApp6" Height="400" Width="611">
+    <StackPanel>
+        <Label Content="Local Clock" HorizontalAlignment="Center" Margin="0,26,0,0" VerticalAlignment="Top" Height="36" Width="198" RenderTransformOrigin="0.497,-0.34" FontSize="20" HorizontalContentAlignment="Center"/>
+        <Label x:Name="clockDisplay" Height="117" Width="337" FontSize="20" HorizontalContentAlignment="Center"/>
+        <Button Content="Hang" Height="50" Width="100" Background="#FFD42D2D" Click="HangClick"/>
+    </StackPanel>
+</Window>
