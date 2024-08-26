@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\UdpWatcher"
+    "\\HeartBeat",
+    "\\WatcherService"
   ],
-  "SelectedNode": "\\UdpWatcher\\Program.cs",
+  "SelectedNode": "\\Base",
   "PreviewInSolutionExplorer": false
 }

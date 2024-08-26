@@ -57,3 +57,4 @@ C:\Work\Hearbeat Demo\BackupWatcher\obj\Debug\net6.0\BackupWatcher.pdb
 C:\Work\Hearbeat Demo\BackupWatcher\obj\Debug\net6.0\BackupWatcher.genruntimeconfig.cache
 C:\Work\Hearbeat Demo\BackupWatcher\obj\Debug\net6.0\ref\BackupWatcher.dll
 C:\Work\Hearbeat Demo\BackupWatcher\bin\Debug\net6.0\ProcessExtensions.cs
+C:\Work\Hearbeat Demo\BackupWatcher\obj\Debug\net6.0\BackupWatcher.sourcelink.json

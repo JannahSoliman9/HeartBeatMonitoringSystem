@@ -60,3 +60,4 @@ C:\Work\Hearbeat Demo\UdpApp8\obj\Debug\net6.0-windows\UdpApp8.pdb
 C:\Work\Hearbeat Demo\UdpApp8\obj\Debug\net6.0-windows\UdpApp8.genruntimeconfig.cache
 C:\Work\Hearbeat Demo\UdpApp8\obj\Debug\net6.0-windows\ref\UdpApp8.dll
 C:\Work\Hearbeat Demo\UdpApp8\bin\Debug\net6.0-windows\ProcessExtensions.cs
+C:\Work\Hearbeat Demo\UdpApp8\obj\Debug\net6.0-windows\UdpApp8.sourcelink.json

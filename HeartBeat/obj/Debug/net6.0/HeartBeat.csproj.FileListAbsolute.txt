@@ -12,3 +12,4 @@ C:\Work\Hearbeat Demo\HeartBeat\obj\Debug\net6.0\refint\HeartBeat.dll
 C:\Work\Hearbeat Demo\HeartBeat\obj\Debug\net6.0\HeartBeat.pdb
 C:\Work\Hearbeat Demo\HeartBeat\obj\Debug\net6.0\ref\HeartBeat.dll
 C:\Work\Hearbeat Demo\HeartBeat\bin\Debug\net6.0\ProcessExtensions.cs
+C:\Work\Hearbeat Demo\HeartBeat\obj\Debug\net6.0\HeartBeat.sourcelink.json

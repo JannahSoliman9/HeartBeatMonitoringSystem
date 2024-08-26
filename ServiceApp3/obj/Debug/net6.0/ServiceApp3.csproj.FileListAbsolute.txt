@@ -57,3 +57,4 @@ C:\Work\Hearbeat Demo\ServiceApp3\obj\Debug\net6.0\ServiceApp3.pdb
 C:\Work\Hearbeat Demo\ServiceApp3\obj\Debug\net6.0\ServiceApp3.genruntimeconfig.cache
 C:\Work\Hearbeat Demo\ServiceApp3\obj\Debug\net6.0\ref\ServiceApp3.dll
 C:\Work\Hearbeat Demo\ServiceApp3\bin\Debug\net6.0\ProcessExtensions.cs
+C:\Work\Hearbeat Demo\ServiceApp3\obj\Debug\net6.0\ServiceApp3.sourcelink.json
