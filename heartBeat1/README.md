@@ -82,9 +82,10 @@ dotnet add package TaskScheduler --version 2.11.0
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-repo/heartbeat-monitoring-system.git
-cd heartbeat-monitoring-system/WatcherService
+git clone https://github.com/JannahSoliman9/HeartBeatMonitoringSystem.git
+cd HeartbeatMonitoringSystem/HeartBeat1
 ```
+Open the project solution "heartBeat1.sln"
 
 ### 2. Update Database Connection String
 
