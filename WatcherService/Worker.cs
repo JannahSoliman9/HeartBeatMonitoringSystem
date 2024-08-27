@@ -25,7 +25,7 @@ namespace WatcherService
             StartMonitoringEverySecond();
            
 
-           // _watcher.StartSendingHeartbeat();   
+            _watcher.StartSendingHeartbeat();   
 
             while (!stoppingToken.IsCancellationRequested)
             {
@@ -58,31 +58,7 @@ namespace WatcherService
 
             }
         }
-        private void ListenForMessagesFromBackup()
-        {
-            const int port = 8000; //port to listen on 
-            Console.WriteLine($"Watcher listening on port {port}...");
-
-            while (true)
-            {
-                UdpReceiver udpReceiver = new UdpReceiver(port);
-                string message = udpReceiver.ReceiveMessage();
-                _logger.LogWarning(message);
-
-                string appId = ParseAppID(message);
-
-                if (_watcher.Apps.TryGetValue(appId, out var app))
-                {
-                    app.ResetTimer();
-                    dbManager.LogReceivedMessage(app.AppId, DateTime.Now);
-                }
-                else
-                {
-                    _logger.LogWarning($"Cant read app ID {app.AppId}");
-                }
-
-            }
-        }
+       
         private static void StartMonitoringEverySecond()
         {
             _monitoringTimer = new Timer(MonitorApps, null, 0, 1000);

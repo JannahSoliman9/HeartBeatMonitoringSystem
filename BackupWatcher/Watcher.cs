@@ -169,7 +169,7 @@ namespace BackupWatcher
         private void SendHeartbeat(object state)
         {
             string message = $"{_watcherId}-{DateTime.Now}";
-            UdpSender.SendMessage(message, ipAddress, 9000);
+            UdpSender.SendMessage(message, ipAddress, 5000);
             dbManager.LogAppHeartbeat(_watcherId, DateTime.Now);
         }
         public void StartSendingHeartbeat()

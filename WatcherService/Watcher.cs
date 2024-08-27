@@ -65,7 +65,7 @@ namespace WatcherService
                 var WatcherConfig = _configuration.GetSection("WatcherConfig");
                 _watcherId = WatcherConfig["AppId"];
                 _watcherIntervalInSeconds = int.Parse(WatcherConfig["IntervalInSeconds"]);
-                Console.WriteLine($"Loaded Backup Watcher config: {_watcherId}, Interval: {_watcherIntervalInSeconds} seconds");
+                Console.WriteLine($"Loaded Watcher config: {_watcherId}, Interval: {_watcherIntervalInSeconds} seconds");
 
 
             }

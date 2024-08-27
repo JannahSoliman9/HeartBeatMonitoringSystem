@@ -3,6 +3,15 @@
   "WorkspaceRootPath": "C:\\Work\\Hearbeat Demo\\heartBeat1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{99E4A89A-2BD3-426F-90F3-8E325A7F3B24}|..\\BackupWatcher\\BackupWatcher.csproj|c:\\work\\hearbeat demo\\backupwatcher\\watcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E4A89A-2BD3-426F-90F3-8E325A7F3B24}|..\\BackupWatcher\\BackupWatcher.csproj|c:\\work\\hearbeat demo\\backupwatcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E4A89A-2BD3-426F-90F3-8E325A7F3B24}|..\\BackupWatcher\\BackupWatcher.csproj|c:\\work\\hearbeat demo\\backupwatcher\\backupwatcher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5513EF7-CF17-4696-8DF8-71BB577966F1}|Solution Items{F5513EF7-CF17-4696-8DF8-71BB577966F1}|C:\\Work\\Hearbeat Demo\\heartBeat1\\README.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
       "RelativeMoniker": "D:0:0:{F5513EF7-CF17-4696-8DF8-71BB577966F1}|Solution Items{F5513EF7-CF17-4696-8DF8-71BB577966F1}|solutionrelative:README.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     }
@@ -23,15 +32,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Watcher.cs",
+              "DocumentMoniker": "C:\\Work\\Hearbeat Demo\\BackupWatcher\\Watcher.cs",
+              "RelativeDocumentMoniker": "..\\BackupWatcher\\Watcher.cs",
+              "ToolTip": "C:\\Work\\Hearbeat Demo\\BackupWatcher\\Watcher.cs",
+              "RelativeToolTip": "..\\BackupWatcher\\Watcher.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:54:07.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\Hearbeat Demo\\BackupWatcher\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BackupWatcher\\Program.cs",
+              "ToolTip": "C:\\Work\\Hearbeat Demo\\BackupWatcher\\Program.cs",
+              "RelativeToolTip": "..\\BackupWatcher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:54:02.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackupWatcher.csproj",
+              "DocumentMoniker": "C:\\Work\\Hearbeat Demo\\BackupWatcher\\BackupWatcher.csproj",
+              "RelativeDocumentMoniker": "..\\BackupWatcher\\BackupWatcher.csproj",
+              "ToolTip": "C:\\Work\\Hearbeat Demo\\BackupWatcher\\BackupWatcher.csproj",
+              "RelativeToolTip": "..\\BackupWatcher\\BackupWatcher.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-26T13:53:58.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Work\\Hearbeat Demo\\heartBeat1\\README.md",
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Work\\Hearbeat Demo\\heartBeat1\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAqwFcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAqwLEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-26T08:31:13.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T08:31:13.555Z"
             }
           ]
         }
